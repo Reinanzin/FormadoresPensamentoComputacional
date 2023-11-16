@@ -19,3 +19,9 @@ body {
     background-color: rgb(137, 207, 243);
 
 }
+
+#banner {
+    width: 300px;
+    margin: 0;
+    padding: 0;
+}
