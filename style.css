@@ -28,6 +28,11 @@
     padding: 0;
 }
 
+.cabecalho-principal {
+    margin: 0;
+    padding: 0;
+}
+
 .conteudo {
     background-color: rgb(217, 255, 0);
     margin: 0;
