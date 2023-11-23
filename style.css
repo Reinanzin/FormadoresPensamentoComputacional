@@ -24,14 +24,18 @@
 .cabecalho {
     background-color:rgb(170, 21, 21);
     text-align:center;
+    margin: 0;
+    padding: 0;
 }
 
 .conteudo {
     background-color: rgb(176, 202, 26);
-
+    margin: 0;
+    padding: 0;
 }
 
 .rodape {
     background-color: rgb(28, 212, 22);
-
+    margin: 0;
+    padding: 0;
 }
