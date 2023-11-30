@@ -27,6 +27,7 @@
     margin: 0;
     padding: 20px;
     font-size: 32px;
+    border-bottom: 2px solid #EA906C;
 }
 
 .cabecalho-principal {
