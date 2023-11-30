@@ -29,6 +29,7 @@
     padding: 20px;
     font-size: 32px;
     border-bottom: 5px solid white;
+    justify-content: space-around;
 }
 
 .cabecalho-principal {
